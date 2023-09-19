@@ -5,6 +5,10 @@ This library is created here in **NYU**. The professor that was in part of the d
 
 This library helps students in art major, or any non technical major to use graphic design to assist webpage implemenetation.
 
+# Comment from Lesley Zhao (NetID: tz2074):
+
+ This is a really good website introducing tons of useful tools for Javascript. Everyone can read the instructions and learn how to leverage these libraries.
+
 # Comments from Sophie Ana 
 
 I love using p5js! I have used it in a bunch of projects and it is a lot of fun to play around with. I didn't know that it was created by an NYU professor-- that's very cool! 
