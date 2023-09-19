@@ -4,3 +4,8 @@ This is a webpage that I find interesting regarding software development [p5js](
 This library is created here in **NYU**. The professor that was in part of the development process is in NYU Tisch, and he has a youtube channel that I LOVE called _Coding Train_.
 
 This library helps students in art major, or any non technical major to use graphic design to assist webpage implemenetation.
+
+
+# Comment from Lesley Zhao (NetID: tz2074):
+
+ This is a really good website introducing tons of useful tools for Javascript. Everyone can read the instructions and learn how to leverage these libraries.
