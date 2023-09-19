@@ -5,7 +5,6 @@ This library is created here in **NYU**. The professor that was in part of the d
 
 This library helps students in art major, or any non technical major to use graphic design to assist webpage implemenetation.
 
-
 # Comment from Lesley Zhao (NetID: tz2074):
 
  This is a really good website introducing tons of useful tools for Javascript. Everyone can read the instructions and learn how to leverage these libraries.
